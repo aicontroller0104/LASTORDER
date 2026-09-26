@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "LAST ORDER",
+    "slug": "last-order",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.lastorder.twosidesofwar",
+      "versionCode": 1
+    }
+  }
+}
